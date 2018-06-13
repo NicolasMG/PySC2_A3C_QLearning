@@ -26,7 +26,7 @@ pip install baselines
 - Il est possible de lancer les agents de plusieurs façons :
 	- Pour lancer l'agent par invité commande
 		```
-		python -m main --option
+		python -m main --options
 		```
 		d'autres options sont disponibles.
 
