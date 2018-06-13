@@ -1,0 +1,854 @@
+  12/Attack_screen                                      (3/queued [2]; 0/screen [64, 64])
+  13/Attack_minimap                                     (3/queued [2]; 1/minimap [64, 64])
+ 274/HoldPosition_quick                                 (3/queued [2])
+I0609 20:59:40.700096 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 20:59:40.890080 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 20:59:40.920425 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [1]
+I0609 20:59:56.425344 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:00:09.623667 139791689561856 sc2_env.py:240] Starting episode: 2
+Game has started.
+I0609 21:00:09.961916 139791186261760 sc2_env.py:240] Starting episode: 2
+Game has started.
+I0609 21:00:12.688238 139793578317632 sc2_env.py:240] Starting episode: 2
+Game has started.
+I0609 21:00:22.030151 139791681169152 sc2_env.py:240] Starting episode: 2
+I0609 21:00:27.965354 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:00:28.283775 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:00:38.320128 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:00:50.230782 139791689561856 sc2_env.py:240] Starting episode: 3
+Game has started.
+I0609 21:00:51.346795 139791186261760 sc2_env.py:240] Starting episode: 3
+Game has started.
+I0609 21:00:53.820011 139793578317632 sc2_env.py:240] Starting episode: 3
+I0609 21:00:58.915142 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+Game has started.
+I0609 21:01:10.609911 139791681169152 sc2_env.py:240] Starting episode: 3
+I0609 21:01:16.024040 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+I0609 21:01:16.712737 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:01:25.279406 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:01:38.275579 139791186261760 sc2_env.py:240] Starting episode: 4
+Game has started.
+I0609 21:01:39.031946 139791689561856 sc2_env.py:240] Starting episode: 4
+Game has started.
+I0609 21:01:41.668576 139793578317632 sc2_env.py:240] Starting episode: 4
+I0609 21:01:47.479861 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [2], score: [12]
+Game has started.
+I0609 21:01:59.152335 139791681169152 sc2_env.py:240] Starting episode: 4
+I0609 21:02:03.603089 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:02:04.347821 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:02:13.723367 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+Game has started.
+I0609 21:02:26.093905 139791186261760 sc2_env.py:240] Starting episode: 5
+Game has started.
+I0609 21:02:26.429642 139791689561856 sc2_env.py:240] Starting episode: 5
+Game has started.
+I0609 21:02:29.473903 139793578317632 sc2_env.py:240] Starting episode: 5
+I0609 21:02:36.091530 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:02:47.876752 139791681169152 sc2_env.py:240] Starting episode: 5
+I0609 21:02:51.746213 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:02:52.132115 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+I0609 21:03:00.606217 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+Game has started.
+I0609 21:03:15.080182 139791689561856 sc2_env.py:240] Starting episode: 6
+I0609 21:03:15.104730 139791186261760 sc2_env.py:240] Starting episode: 6
+Game has started.
+I0609 21:03:17.147310 139793578317632 sc2_env.py:240] Starting episode: 6
+I0609 21:03:24.241200 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+Game has started.
+I0609 21:03:35.954463 139791681169152 sc2_env.py:240] Starting episode: 6
+I0609 21:03:40.298592 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+I0609 21:03:40.337942 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [15]
+I0609 21:03:41.436177 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+Game has started.
+Game has started.
+I0609 21:04:05.383089 139793578317632 sc2_env.py:240] Starting episode: 7
+I0609 21:04:05.374834 139791689561856 sc2_env.py:240] Starting episode: 7
+I0609 21:04:05.378038 139791186261760 sc2_env.py:240] Starting episode: 7
+I0609 21:04:14.763748 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+Game has started.
+I0609 21:04:26.668613 139791681169152 sc2_env.py:240] Starting episode: 7
+I0609 21:04:30.115593 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [1]
+I0609 21:04:30.171755 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:04:30.369062 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:04:53.998265 139791689561856 sc2_env.py:240] Starting episode: 8
+Game has started.
+I0609 21:04:54.142263 139793578317632 sc2_env.py:240] Starting episode: 8
+Game has started.
+I0609 21:04:54.464152 139791186261760 sc2_env.py:240] Starting episode: 8
+I0609 21:05:03.021582 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+Game has started.
+I0609 21:05:14.720782 139791681169152 sc2_env.py:240] Starting episode: 8
+I0609 21:05:18.938317 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:05:19.087330 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [16]
+I0609 21:05:19.090596 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+Game has started.
+Game has started.
+Game has started.
+I0609 21:05:43.844527 139791186261760 sc2_env.py:240] Starting episode: 9
+I0609 21:05:43.844956 139791689561856 sc2_env.py:240] Starting episode: 9
+I0609 21:05:43.845588 139793578317632 sc2_env.py:240] Starting episode: 9
+I0609 21:05:53.280311 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+Game has started.
+I0609 21:06:04.874903 139791681169152 sc2_env.py:240] Starting episode: 9
+I0609 21:06:08.534237 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+I0609 21:06:08.772507 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:06:08.809427 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:06:31.712790 139791186261760 sc2_env.py:240] Starting episode: 10
+Game has started.
+I0609 21:06:32.477964 139793578317632 sc2_env.py:240] Starting episode: 10
+Game has started.
+I0609 21:06:32.852784 139791689561856 sc2_env.py:240] Starting episode: 10
+I0609 21:06:42.268065 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+Game has started.
+I0609 21:06:54.128612 139791681169152 sc2_env.py:240] Starting episode: 10
+I0609 21:06:56.725152 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:06:57.071653 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:06:57.389103 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+Game has started.
+Game has started.
+Game has started.
+I0609 21:07:22.237716 139791689561856 sc2_env.py:240] Starting episode: 11
+I0609 21:07:22.238060 139793578317632 sc2_env.py:240] Starting episode: 11
+I0609 21:07:22.238887 139791186261760 sc2_env.py:240] Starting episode: 11
+I0609 21:07:32.402789 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:07:44.194883 139791681169152 sc2_env.py:240] Starting episode: 11
+I0609 21:07:46.843319 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:07:46.990414 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+I0609 21:07:46.992689 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+Game has started.
+I0609 21:08:10.781113 139791689561856 sc2_env.py:240] Starting episode: 12
+Game has started.
+I0609 21:08:10.820022 139791186261760 sc2_env.py:240] Starting episode: 12
+Game has started.
+I0609 21:08:11.152548 139793578317632 sc2_env.py:240] Starting episode: 12
+I0609 21:08:21.039630 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+Game has started.
+I0609 21:08:32.985209 139791681169152 sc2_env.py:240] Starting episode: 12
+I0609 21:08:35.746380 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:08:35.895316 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:08:36.014692 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+I0609 21:08:59.630043 139791186261760 sc2_env.py:240] Starting episode: 13
+Game has started.
+I0609 21:08:59.671910 139791689561856 sc2_env.py:240] Starting episode: 13
+Game has started.
+I0609 21:08:59.966855 139793578317632 sc2_env.py:240] Starting episode: 13
+I0609 21:09:09.807688 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:09:21.401753 139791681169152 sc2_env.py:240] Starting episode: 13
+I0609 21:09:24.169611 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:09:24.343076 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:09:24.745706 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+Game has started.
+I0609 21:09:48.137688 139791186261760 sc2_env.py:240] Starting episode: 14
+I0609 21:09:48.143059 139791689561856 sc2_env.py:240] Starting episode: 14
+Game has started.
+I0609 21:09:48.308604 139793578317632 sc2_env.py:240] Starting episode: 14
+I0609 21:09:58.569734 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+Game has started.
+I0609 21:10:10.396287 139791681169152 sc2_env.py:240] Starting episode: 14
+I0609 21:10:13.076051 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:10:13.133359 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:10:13.255480 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:10:37.006759 139791689561856 sc2_env.py:240] Starting episode: 15
+Game has started.
+I0609 21:10:37.153930 139791186261760 sc2_env.py:240] Starting episode: 15
+Game has started.
+I0609 21:10:37.244141 139793578317632 sc2_env.py:240] Starting episode: 15
+I0609 21:10:48.214399 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:11:00.625240 139791681169152 sc2_env.py:240] Starting episode: 15
+I0609 21:11:03.043772 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10]
+I0609 21:11:03.085469 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+I0609 21:11:03.151622 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+Game has started.
+Game has started.
+Game has started.
+I0609 21:11:27.548987 139791689561856 sc2_env.py:240] Starting episode: 16
+I0609 21:11:27.549947 139791186261760 sc2_env.py:240] Starting episode: 16
+I0609 21:11:27.551738 139793578317632 sc2_env.py:240] Starting episode: 16
+I0609 21:11:37.111518 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+Game has started.
+I0609 21:11:49.058242 139791681169152 sc2_env.py:240] Starting episode: 16
+I0609 21:11:51.950757 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:11:52.384388 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:11:52.398539 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+I0609 21:12:15.658996 139791186261760 sc2_env.py:240] Starting episode: 17
+Game has started.
+I0609 21:12:15.988885 139793578317632 sc2_env.py:240] Starting episode: 17
+Game has started.
+I0609 21:12:16.172724 139791689561856 sc2_env.py:240] Starting episode: 17
+I0609 21:12:26.172607 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+Game has started.
+I0609 21:12:37.965529 139791681169152 sc2_env.py:240] Starting episode: 17
+I0609 21:12:40.818228 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+I0609 21:12:40.887909 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:12:41.004627 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+Game has started.
+Game has started.
+I0609 21:13:04.728076 139791689561856 sc2_env.py:240] Starting episode: 18
+I0609 21:13:04.759411 139791186261760 sc2_env.py:240] Starting episode: 18
+Game has started.
+I0609 21:13:05.213157 139793578317632 sc2_env.py:240] Starting episode: 18
+I0609 21:13:14.814068 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:13:26.571101 139791681169152 sc2_env.py:240] Starting episode: 18
+I0609 21:13:29.629171 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:13:29.824941 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [15]
+I0609 21:13:29.987823 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+Game has started.
+Game has started.
+I0609 21:13:53.358800 139791689561856 sc2_env.py:240] Starting episode: 19
+I0609 21:13:53.384686 139791186261760 sc2_env.py:240] Starting episode: 19
+Game has started.
+I0609 21:13:53.990921 139793578317632 sc2_env.py:240] Starting episode: 19
+I0609 21:14:03.452605 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:14:15.111784 139791681169152 sc2_env.py:240] Starting episode: 19
+I0609 21:14:18.189991 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [15]
+I0609 21:14:18.273754 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:14:18.702260 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+Game has started.
+I0609 21:14:42.830028 139791186261760 sc2_env.py:240] Starting episode: 20
+Game has started.
+I0609 21:14:42.873620 139791689561856 sc2_env.py:240] Starting episode: 20
+Game has started.
+I0609 21:14:42.916829 139793578317632 sc2_env.py:240] Starting episode: 20
+I0609 21:14:52.406087 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+I0609 21:15:04.307460 139791681169152 sc2_env.py:240] Starting episode: 20
+I0609 21:15:07.290630 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:15:07.386747 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+I0609 21:15:07.659896 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:15:30.525041 139791689561856 sc2_env.py:240] Starting episode: 21
+Game has started.
+I0609 21:15:31.177192 139793578317632 sc2_env.py:240] Starting episode: 21
+Game has started.
+I0609 21:15:31.573999 139791186261760 sc2_env.py:240] Starting episode: 21
+I0609 21:15:41.114437 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [18]
+Game has started.
+I0609 21:15:52.675446 139791681169152 sc2_env.py:240] Starting episode: 21
+I0609 21:15:56.108314 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:15:56.135838 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+I0609 21:15:56.302802 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+Game has started.
+I0609 21:16:19.462223 139791689561856 sc2_env.py:240] Starting episode: 22
+Game has started.
+I0609 21:16:20.155160 139791186261760 sc2_env.py:240] Starting episode: 22
+Game has started.
+I0609 21:16:20.568429 139793578317632 sc2_env.py:240] Starting episode: 22
+I0609 21:16:29.826273 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [6]
+Game has started.
+I0609 21:16:41.626866 139791681169152 sc2_env.py:240] Starting episode: 22
+I0609 21:16:44.367507 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:16:44.917082 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:16:45.288637 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+Game has started.
+I0609 21:17:07.499596 139791689561856 sc2_env.py:240] Starting episode: 23
+Game has started.
+I0609 21:17:07.992130 139791186261760 sc2_env.py:240] Starting episode: 23
+Game has started.
+I0609 21:17:08.319891 139793578317632 sc2_env.py:240] Starting episode: 23
+I0609 21:17:18.966236 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+Game has started.
+I0609 21:17:30.407976 139791681169152 sc2_env.py:240] Starting episode: 23
+I0609 21:17:32.401186 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+I0609 21:17:32.889979 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:17:33.067888 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:17:55.204490 139791689561856 sc2_env.py:240] Starting episode: 24
+Game has started.
+I0609 21:17:56.180232 139793578317632 sc2_env.py:240] Starting episode: 24
+Game has started.
+I0609 21:17:56.419740 139791186261760 sc2_env.py:240] Starting episode: 24
+I0609 21:18:07.363258 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+Game has started.
+I0609 21:18:19.089057 139791681169152 sc2_env.py:240] Starting episode: 24
+I0609 21:18:20.262516 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:18:20.890948 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:18:21.138168 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+Game has started.
+I0609 21:18:43.262006 139791689561856 sc2_env.py:240] Starting episode: 25
+Game has started.
+I0609 21:18:44.109799 139791186261760 sc2_env.py:240] Starting episode: 25
+Game has started.
+I0609 21:18:44.627659 139793578317632 sc2_env.py:240] Starting episode: 25
+I0609 21:18:56.836279 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+Game has started.
+I0609 21:19:08.407573 139791681169152 sc2_env.py:240] Starting episode: 25
+I0609 21:19:08.557595 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:19:08.993634 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [2]
+I0609 21:19:09.070642 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:19:32.420367 139791689561856 sc2_env.py:240] Starting episode: 26
+Game has started.
+I0609 21:19:32.651020 139793578317632 sc2_env.py:240] Starting episode: 26
+Game has started.
+I0609 21:19:32.844800 139791186261760 sc2_env.py:240] Starting episode: 26
+I0609 21:19:44.668879 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+Game has started.
+I0609 21:19:56.533782 139791681169152 sc2_env.py:240] Starting episode: 26
+I0609 21:19:57.008320 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [15]
+I0609 21:19:57.517719 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:19:57.754753 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+Game has started.
+I0609 21:20:20.791348 139791689561856 sc2_env.py:240] Starting episode: 27
+Game has started.
+I0609 21:20:20.830667 139791186261760 sc2_env.py:240] Starting episode: 27
+Game has started.
+I0609 21:20:21.331712 139793578317632 sc2_env.py:240] Starting episode: 27
+I0609 21:20:33.563377 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+Game has started.
+I0609 21:20:45.452952 139791681169152 sc2_env.py:240] Starting episode: 27
+I0609 21:20:45.485483 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+I0609 21:20:45.853345 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [2]
+I0609 21:20:46.004309 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+Game has started.
+I0609 21:21:08.708569 139791689561856 sc2_env.py:240] Starting episode: 28
+Game has started.
+I0609 21:21:09.357972 139791186261760 sc2_env.py:240] Starting episode: 28
+Game has started.
+I0609 21:21:09.784087 139793578317632 sc2_env.py:240] Starting episode: 28
+I0609 21:21:22.906570 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:21:33.377453 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:21:34.352260 139791681169152 sc2_env.py:240] Starting episode: 28
+I0609 21:21:34.559310 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [15]
+I0609 21:21:34.700889 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+Game has started.
+I0609 21:21:56.780339 139791689561856 sc2_env.py:240] Starting episode: 29
+Game has started.
+I0609 21:21:57.409914 139791186261760 sc2_env.py:240] Starting episode: 29
+Game has started.
+I0609 21:21:57.710082 139793578317632 sc2_env.py:240] Starting episode: 29
+I0609 21:22:11.961289 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:22:20.691903 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:22:21.825011 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:22:22.111814 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [15]
+Game has started.
+I0609 21:22:31.237790 139791681169152 sc2_env.py:240] Starting episode: 29
+Game has started.
+I0609 21:22:44.203455 139791689561856 sc2_env.py:240] Starting episode: 30
+Game has started.
+I0609 21:22:45.083785 139791186261760 sc2_env.py:240] Starting episode: 30
+Game has started.
+I0609 21:22:45.604856 139793578317632 sc2_env.py:240] Starting episode: 30
+I0609 21:23:00.746165 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+I0609 21:23:08.035051 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:23:08.729531 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:23:10.212875 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [17]
+Game has started.
+I0609 21:23:24.830763 139791681169152 sc2_env.py:240] Starting episode: 30
+Game has started.
+I0609 21:23:31.989251 139791689561856 sc2_env.py:240] Starting episode: 31
+Game has started.
+I0609 21:23:32.823606 139791186261760 sc2_env.py:240] Starting episode: 31
+Game has started.
+I0609 21:23:33.527153 139793578317632 sc2_env.py:240] Starting episode: 31
+I0609 21:23:49.143422 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:23:55.493484 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:23:55.815825 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:23:57.561246 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:24:15.248550 139791681169152 sc2_env.py:240] Starting episode: 31
+Game has started.
+Game has started.
+I0609 21:24:20.842155 139791689561856 sc2_env.py:240] Starting episode: 32
+I0609 21:24:20.862267 139791186261760 sc2_env.py:240] Starting episode: 32
+Game has started.
+I0609 21:24:20.955522 139793578317632 sc2_env.py:240] Starting episode: 32
+I0609 21:24:37.731518 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+I0609 21:24:43.111863 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:24:43.121156 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+I0609 21:24:44.581680 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+Game has started.
+I0609 21:25:04.039142 139791681169152 sc2_env.py:240] Starting episode: 32
+Game has started.
+I0609 21:25:09.014086 139791186261760 sc2_env.py:240] Starting episode: 33
+Game has started.
+I0609 21:25:09.143271 139791689561856 sc2_env.py:240] Starting episode: 33
+Game has started.
+I0609 21:25:09.401022 139793578317632 sc2_env.py:240] Starting episode: 33
+I0609 21:25:26.416252 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [2]
+I0609 21:25:31.479518 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [19]
+I0609 21:25:33.155808 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [1]
+I0609 21:25:35.537756 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+I0609 21:25:55.039194 139791681169152 sc2_env.py:240] Starting episode: 33
+Game has started.
+I0609 21:25:55.559627 139791186261760 sc2_env.py:240] Starting episode: 34
+Game has started.
+I0609 21:25:58.026422 139791689561856 sc2_env.py:240] Starting episode: 34
+Game has started.
+I0609 21:25:58.255537 139793578317632 sc2_env.py:240] Starting episode: 34
+I0609 21:26:17.430668 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:26:17.618117 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:26:18.923656 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:26:24.108757 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+Game has started.
+I0609 21:26:46.636676 139791681169152 sc2_env.py:240] Starting episode: 34
+Game has started.
+I0609 21:26:47.848675 139791689561856 sc2_env.py:240] Starting episode: 35
+Game has started.
+I0609 21:26:47.991049 139793578317632 sc2_env.py:240] Starting episode: 35
+Game has started.
+I0609 21:26:48.233773 139791186261760 sc2_env.py:240] Starting episode: 35
+I0609 21:27:06.980950 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+I0609 21:27:07.156634 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:27:07.312181 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:27:07.537226 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+Game has started.
+I0609 21:27:36.099816 139791681169152 sc2_env.py:240] Starting episode: 35
+Game has started.
+I0609 21:27:36.231692 139791186261760 sc2_env.py:240] Starting episode: 36
+Game has started.
+I0609 21:27:37.636234 139791689561856 sc2_env.py:240] Starting episode: 36
+Game has started.
+I0609 21:27:37.812650 139793578317632 sc2_env.py:240] Starting episode: 36
+I0609 21:27:56.120050 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [11]
+I0609 21:27:56.197237 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [16]
+I0609 21:27:57.070852 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+I0609 21:27:57.152177 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+Game has started.
+I0609 21:28:25.584591 139791681169152 sc2_env.py:240] Starting episode: 36
+Game has started.
+I0609 21:28:25.968829 139791186261760 sc2_env.py:240] Starting episode: 37
+Game has started.
+I0609 21:28:26.013830 139793578317632 sc2_env.py:240] Starting episode: 37
+Game has started.
+I0609 21:28:26.512852 139791689561856 sc2_env.py:240] Starting episode: 37
+I0609 21:28:45.162070 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:28:45.188520 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:28:45.488155 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:28:45.783573 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [19]
+Game has started.
+I0609 21:29:13.491505 139791681169152 sc2_env.py:240] Starting episode: 37
+Game has started.
+I0609 21:29:15.103090 139791186261760 sc2_env.py:240] Starting episode: 38
+Game has started.
+Game has started.
+I0609 21:29:15.835359 139791689561856 sc2_env.py:240] Starting episode: 38
+I0609 21:29:15.842246 139793578317632 sc2_env.py:240] Starting episode: 38
+I0609 21:29:33.976756 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:29:34.483034 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+I0609 21:29:34.927065 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+I0609 21:29:40.930533 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+Game has started.
+I0609 21:30:03.481004 139791186261760 sc2_env.py:240] Starting episode: 39
+Game has started.
+I0609 21:30:03.705641 139791681169152 sc2_env.py:240] Starting episode: 38
+Game has started.
+I0609 21:30:04.076559 139791689561856 sc2_env.py:240] Starting episode: 39
+Game has started.
+I0609 21:30:04.385170 139793578317632 sc2_env.py:240] Starting episode: 39
+I0609 21:30:23.089435 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+I0609 21:30:23.388241 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [1]
+I0609 21:30:23.576347 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:30:23.723605 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+Game has started.
+I0609 21:30:52.364039 139791681169152 sc2_env.py:240] Starting episode: 39
+Game has started.
+I0609 21:30:52.985661 139791689561856 sc2_env.py:240] Starting episode: 40
+Game has started.
+I0609 21:30:53.421201 139791186261760 sc2_env.py:240] Starting episode: 40
+Game has started.
+I0609 21:30:53.772748 139793578317632 sc2_env.py:240] Starting episode: 40
+I0609 21:31:12.041687 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:31:12.565154 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+I0609 21:31:12.695285 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [15]
+I0609 21:31:12.919570 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+I0609 21:31:40.456706 139791681169152 sc2_env.py:240] Starting episode: 40
+Game has started.
+I0609 21:31:41.597040 139791186261760 sc2_env.py:240] Starting episode: 41
+Game has started.
+I0609 21:31:42.500605 139791689561856 sc2_env.py:240] Starting episode: 41
+Game has started.
+I0609 21:31:42.775607 139793578317632 sc2_env.py:240] Starting episode: 41
+I0609 21:32:00.786387 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [1]
+I0609 21:32:01.366538 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+I0609 21:32:01.761801 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:32:01.793770 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+Game has started.
+I0609 21:32:30.458275 139791681169152 sc2_env.py:240] Starting episode: 41
+Game has started.
+I0609 21:32:30.563297 139791689561856 sc2_env.py:240] Starting episode: 42
+Game has started.
+I0609 21:32:31.171072 139791186261760 sc2_env.py:240] Starting episode: 42
+Game has started.
+I0609 21:32:31.217125 139793578317632 sc2_env.py:240] Starting episode: 42
+I0609 21:32:50.154671 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:32:50.395463 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:32:50.523415 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+I0609 21:32:50.774755 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+Game has started.
+I0609 21:33:19.653308 139791681169152 sc2_env.py:240] Starting episode: 42
+Game has started.
+I0609 21:33:19.737369 139791689561856 sc2_env.py:240] Starting episode: 43
+Game has started.
+I0609 21:33:20.130077 139793578317632 sc2_env.py:240] Starting episode: 43
+Game has started.
+I0609 21:33:20.447199 139791186261760 sc2_env.py:240] Starting episode: 43
+I0609 21:33:39.264112 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [3]
+I0609 21:33:39.344413 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+I0609 21:33:39.405257 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:33:39.452513 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [18]
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+I0609 21:34:10.092990 139793578317632 sc2_env.py:240] Starting episode: 44
+I0609 21:34:10.096595 139791186261760 sc2_env.py:240] Starting episode: 44
+I0609 21:34:10.098283 139791681169152 sc2_env.py:240] Starting episode: 43
+I0609 21:34:10.098718 139791689561856 sc2_env.py:240] Starting episode: 44
+I0609 21:34:29.163670 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:34:29.579509 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:34:29.595638 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [5]
+I0609 21:34:29.741449 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+Game has started.
+I0609 21:34:58.755840 139791186261760 sc2_env.py:240] Starting episode: 45
+Game has started.
+I0609 21:34:59.090386 139791681169152 sc2_env.py:240] Starting episode: 44
+Game has started.
+I0609 21:34:59.286281 139791689561856 sc2_env.py:240] Starting episode: 45
+Game has started.
+I0609 21:34:59.728882 139793578317632 sc2_env.py:240] Starting episode: 45
+I0609 21:35:18.346927 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:35:18.489748 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:35:18.697743 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [7]
+I0609 21:35:19.132097 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10]
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+I0609 21:35:50.351937 139791681169152 sc2_env.py:240] Starting episode: 45
+I0609 21:35:50.353949 139791186261760 sc2_env.py:240] Starting episode: 46
+I0609 21:35:50.358396 139791689561856 sc2_env.py:240] Starting episode: 46
+I0609 21:35:50.359632 139793578317632 sc2_env.py:240] Starting episode: 46
+I0609 21:36:09.668337 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+I0609 21:36:09.826729 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [4]
+I0609 21:36:09.841509 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [18]
+I0609 21:36:09.888483 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [10]
+Game has started.
+I0609 21:36:39.667935 139791681169152 sc2_env.py:240] Starting episode: 46
+Game has started.
+I0609 21:36:39.814080 139793578317632 sc2_env.py:240] Starting episode: 47
+Game has started.
+I0609 21:36:40.322462 139791186261760 sc2_env.py:240] Starting episode: 47
+Game has started.
+I0609 21:36:40.453383 139791689561856 sc2_env.py:240] Starting episode: 47
+I0609 21:36:59.202972 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [2]
+I0609 21:36:59.345341 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [11]
+I0609 21:36:59.566545 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [16]
+I0609 21:36:59.696589 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+Game has started.
+I0609 21:37:29.155202 139791681169152 sc2_env.py:240] Starting episode: 47
+Game has started.
+I0609 21:37:29.244087 139793578317632 sc2_env.py:240] Starting episode: 48
+Game has started.
+I0609 21:37:29.305338 139791186261760 sc2_env.py:240] Starting episode: 48
+Game has started.
+I0609 21:37:29.823935 139791689561856 sc2_env.py:240] Starting episode: 48
+I0609 21:37:48.540506 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [6]
+I0609 21:37:48.919585 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [12]
+I0609 21:37:48.938025 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [0]
+I0609 21:37:48.944936 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+Game has started.
+Game has started.
+I0609 21:38:17.938651 139791186261760 sc2_env.py:240] Starting episode: 49
+I0609 21:38:17.974075 139791681169152 sc2_env.py:240] Starting episode: 48
+Game has started.
+I0609 21:38:18.709902 139793578317632 sc2_env.py:240] Starting episode: 49
+Game has started.
+I0609 21:38:18.741478 139791689561856 sc2_env.py:240] Starting episode: 49
+I0609 21:38:37.859281 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [16]
+I0609 21:38:37.900985 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [8]
+I0609 21:38:38.039478 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [18]
+I0609 21:38:38.113920 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+I0609 21:39:09.611978 139793578317632 sc2_env.py:240] Starting episode: 50
+I0609 21:39:09.622803 139791681169152 sc2_env.py:240] Starting episode: 49
+I0609 21:39:09.623257 139791186261760 sc2_env.py:240] Starting episode: 50
+I0609 21:39:09.623455 139791689561856 sc2_env.py:240] Starting episode: 50
+I0609 21:39:28.940678 139791186261760 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [14]
+I0609 21:39:28.944226 139791681169152 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:39:28.997362 139791689561856 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [9]
+I0609 21:39:29.110103 139793578317632 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [13]
+Game has started.
+I0609 21:39:59.409509 139791681169152 sc2_env.py:240] Starting episode: 50
+Game has started.
+I0609 21:39:59.946435 139791186261760 sc2_env.py:240] Starting episode: 51
+Game has started.
+I0609 21:40:00.662100 139791689561856 sc2_env.py:240] Starting episode: 51
+Game has started.
+I0609 21:40:01.112273 139793578317632 sc2_env.py:240] Starting episode: 51
+a^CTook 2442.213 seconds
+I0609 21:40:07.837447 139793578317632 sc2_env.py:327] Environment Close
+I0609 21:40:07.837673 139793578317632 sc2_env.py:342] 
+I0609 21:40:07.837833 139793578317632 sc2_env.py:327] Environment Close
+I0609 21:40:07.837975 139793578317632 sc2_env.py:342] 
+I0609 21:40:07.838092 139793578317632 sc2_env.py:327] Environment Close
+I0609 21:40:07.838203 139793578317632 sc2_env.py:342] 
+Took 2445.591 seconds
+I0609 21:40:07.879385 139791681169152 sc2_env.py:327] Environment Close
+I0609 21:40:07.879571 139791681169152 sc2_env.py:342] 
+Took 2445.612 seconds
+I0609 21:40:07.883704 139791689561856 sc2_env.py:327] Environment Close
+I0609 21:40:07.883834 139791689561856 sc2_env.py:342] 
+Took 2445.575 seconds
+I0609 21:40:07.886037 139791186261760 sc2_env.py:327] Environment Close
+I0609 21:40:07.886150 139791186261760 sc2_env.py:342] 
+I0609 21:40:07.938904 139793578317632 sc_process.py:180] Shutdown gracefully.
+I0609 21:40:07.939052 139793578317632 sc_process.py:166] Shutdown with return code: -2
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 61, in catch_websocket_connection_errors
+    yield
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 300, in recv
+    opcode, data = self.recv_data()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 317, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 330, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 364, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 434, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/nicolas/A3C_GITS/Third Solution/pysc2-agents/main.py", line 84, in run_thread
+    for recorder, is_done in run_loop([agent], env, MAX_AGENT_STEPS):
+  File "/home/nicolas/A3C_GITS/Third Solution/pysc2-agents/run_loop.py", line 22, in run_loop
+    timesteps = env.step(actions)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/available_actions_printer.py", line 32, in step
+    all_obs = super(AvailableActionsPrinter, self).step(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/base_env_wrapper.py", line 42, in step
+    return self._env.step(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/sc2_env.py", line 254, in step
+    for c, o, a in zip(self._controllers, self._obs, actions))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/run_parallel.py", line 56, in run
+    return [funcs[0]()]
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 175, in act
+    return self.actions(sc_pb.RequestAction(actions=[action]))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 66, in _skip_status
+    return func(self, *args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 80, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 170, in actions
+    return self._client.send(action=req_action)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 127, in send
+    res = self.send_req(sc_pb.Request(**kwargs))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 113, in send_req
+    return self.read()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 86, in read
+    response = self._read()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "/usr/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    raise ConnectionError("Socket error: %s" % e)
+pysc2.lib.protocol.ConnectionError: Socket error: [Errno 104] Connection reset by peer
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 61, in catch_websocket_connection_errors
+    yield
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 300, in recv
+    opcode, data = self.recv_data()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 317, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 330, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 364, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 434, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/nicolas/A3C_GITS/Third Solution/pysc2-agents/main.py", line 84, in run_thread
+    for recorder, is_done in run_loop([agent], env, MAX_AGENT_STEPS):
+  File "/home/nicolas/A3C_GITS/Third Solution/pysc2-agents/run_loop.py", line 22, in run_loop
+    timesteps = env.step(actions)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/available_actions_printer.py", line 32, in step
+    all_obs = super(AvailableActionsPrinter, self).step(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/base_env_wrapper.py", line 42, in step
+    return self._env.step(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/sc2_env.py", line 254, in step
+    for c, o, a in zip(self._controllers, self._obs, actions))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/run_parallel.py", line 56, in run
+    return [funcs[0]()]
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 175, in act
+    return self.actions(sc_pb.RequestAction(actions=[action]))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 66, in _skip_status
+    return func(self, *args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 80, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 170, in actions
+    return self._client.send(action=req_action)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 127, in send
+    res = self.send_req(sc_pb.Request(**kwargs))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 113, in send_req
+    return self.read()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 86, in read
+    response = self._read()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "/usr/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    raise ConnectionError("Socket error: %s" % e)
+pysc2.lib.protocol.ConnectionError: Socket error: [Errno 104] Connection reset by peer
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 61, in catch_websocket_connection_errors
+    yield
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 300, in recv
+    opcode, data = self.recv_data()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 317, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 330, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 364, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_core.py", line 434, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/websocket/_socket.py", line 94, in recv
+    "Connection is already closed.")
+websocket._exceptions.WebSocketConnectionClosedException: Connection is already closed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/nicolas/A3C_GITS/Third Solution/pysc2-agents/main.py", line 84, in run_thread
+    for recorder, is_done in run_loop([agent], env, MAX_AGENT_STEPS):
+  File "/home/nicolas/A3C_GITS/Third Solution/pysc2-agents/run_loop.py", line 22, in run_loop
+    timesteps = env.step(actions)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/available_actions_printer.py", line 32, in step
+    all_obs = super(AvailableActionsPrinter, self).step(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/base_env_wrapper.py", line 42, in step
+    return self._env.step(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/sc2_env.py", line 257, in step
+    return self._step()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/env/sc2_env.py", line 261, in _step
+    self._obs = self._parallel.run(c.observe for c in self._controllers)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/run_parallel.py", line 56, in run
+    return [funcs[0]()]
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 80, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 157, in observe
+    return self._client.send(observation=sc_pb.RequestObservation())
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 127, in send
+    res = self.send_req(sc_pb.Request(**kwargs))
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 113, in send_req
+    return self.read()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 86, in read
+    response = self._read()
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "/usr/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/nicolas/.local/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 63, in catch_websocket_connection_errors
+    raise ConnectionError("Connection already closed. SC2 probably crashed. "
+pysc2.lib.protocol.ConnectionError: Connection already closed. SC2 probably crashed. Check the error log.
+
+
+I0609 21:40:08.203660 139791186261760 sc2_env.py:327] Environment Close
+I0609 21:40:08.204339 139791681169152 sc2_env.py:327] Environment Close
+I0609 21:40:08.204573 139791689561856 sc2_env.py:327] Environment Close
+I0609 21:40:08.204817 139791186261760 sc2_env.py:342] 
+I0609 21:40:08.205106 139791681169152 sc2_env.py:342] 
+I0609 21:40:08.205403 139791689561856 sc2_env.py:342] 
+I0609 21:40:08.205699 139791186261760 sc2_env.py:327] Environment Close
+I0609 21:40:08.205954 139791681169152 sc2_env.py:327] Environment Close
+I0609 21:40:08.206190 139791689561856 sc2_env.py:327] Environment Close
+I0609 21:40:08.206421 139791186261760 sc2_env.py:342] 
+I0609 21:40:08.206630 139791681169152 sc2_env.py:342] 
+I0609 21:40:08.206878 139791689561856 sc2_env.py:342] 
+I0609 21:40:08.207349 139791186261760 sc_process.py:180] Shutdown gracefully.
+I0609 21:40:08.207708 139791681169152 sc_process.py:180] Shutdown gracefully.
+I0609 21:40:08.207982 139791689561856 sc_process.py:180] Shutdown gracefully.
+I0609 21:40:08.208255 139791186261760 sc_process.py:166] Shutdown with return code: -2
+I0609 21:40:08.208506 139791681169152 sc_process.py:166] Shutdown with return code: -2
+I0609 21:40:08.208776 139791689561856 sc_process.py:166] Shutdown with return code: -2
+
