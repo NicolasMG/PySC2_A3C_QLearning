@@ -22,7 +22,8 @@ pip install baselines
 
 
 ## Exécution :
-- Il est possible de lancer notre agent de plusieurs façons :
+- Se rendre dans le dossier pysc2-agents afin acceder aux fichiers main et Rerole.
+- Il est possible de lancer les agents de plusieurs façons :
 	- Pour lancer l'agent par invité commande
 		```
 		python -m main --option
@@ -41,11 +42,13 @@ pip install baselines
 
 		Liste des maps disponibles : MoveToBeacon, CollectMineralShards, DefeatRoaches, Simple64
 		
+			Les maps ont besoin d'être placé dans le dossier Maps de StarCraft II
+		
 		Liste des races jouables : R (random), T (Terran), Z (Zerg), P (Protos)
 		
 		Liste des difficultées : [1-9]
 		
-
+		
 	- Pour l'entraîner, le fichier 
 		```
 		python Rerole.py
@@ -54,4 +57,6 @@ pip install baselines
 		de relancer automatiquement l'agent.
 
 ## Contenu :
-- 
+- Dossier "QLearning", demande d'autres prérequis et versions
+- Dossier "Rendu Console DefeatRoaches", score affiché par la console lors de l'entrainement et graphique de la progression
+- Dossier "pysc2-agents", projet A3C utilisé pour l'execution de ce projet.
