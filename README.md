@@ -40,7 +40,9 @@ pip install baselines
 		| difficulty		| Integer     		| None			|
 
 		Liste des maps disponibles : MoveToBeacon, CollectMineralShards, DefeatRoaches, Simple64
+		
 		Liste des races jouables : R (random), T (Terran), Z (Zerg), P (Protos)
+		
 		Liste des difficultées : [1-9]
 		
 
